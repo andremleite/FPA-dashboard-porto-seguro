@@ -48,6 +48,3 @@ It has no affiliation with Porto Seguro.
 > Interactive financial dashboard built as a personal project to explore how Generative AI can support FP&A and financial analysis.
 
 🌐 **Live Demo:** https://andremleite.github.io/FPA-dashboard-porto-seguro/
-
-![Dashboard Demo](assets/dashboard-demo.gif)
-
