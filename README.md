@@ -45,4 +45,4 @@ It has no affiliation with Porto Seguro.
 
 ## 🚀 Live Demo
 
-👉 https://andremeleite.github.io/FPA-dashboard-porto-seguro/
+👉 https://andremleite.github.io/FPA-dashboard-porto-seguro/
