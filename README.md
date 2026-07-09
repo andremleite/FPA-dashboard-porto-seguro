@@ -1,5 +1,7 @@
 # 📊 Porto Seguro Financial Dashboard
 
+![Dashboard](screenshots/home.png)
+
 ## Overview
 
 Personal project developed to explore how Generative AI can support FP&A and Financial Analysis activities.
