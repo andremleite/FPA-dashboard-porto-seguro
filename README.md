@@ -2,6 +2,8 @@
 
 Dashboard executivo interativo construído a partir dos dados públicos de Relações com Investidores da Porto Seguro, transformando o release trimestral em uma ferramenta de análise no padrão FP&A.
 
+![Demonstração do dashboard](assets/dashboard-demo.gif)
+
 > ⚠️ **Projeto independente e educacional.** Utiliza exclusivamente dados públicos divulgados pela companhia em seu site de RI. **Não constitui recomendação de investimento** e não possui qualquer vínculo com a Porto Seguro S.A.
 
 ---
